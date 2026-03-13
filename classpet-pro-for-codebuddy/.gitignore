@@ -1,0 +1,19 @@
+# 忽略其他项目目录
+../classpet-pro/
+../classpet-pro 2/
+../classpet-pro 3/
+../content-system/
+../output/
+../data/
+../memory/
+../scripts/
+../cosyvoice-repo/
+
+# 压缩文件
+*.zip
+
+# 临时文件和构建产物
+node_modules/
+*.log
+*.tmp
+.DS_Store
